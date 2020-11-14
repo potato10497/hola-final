@@ -1,0 +1,72 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UTM-Alba-Matter
+FamilyName:UTM Alba Matter
+StyleName:Regular
+FullName:UTM Alba Matter
+MenuName:UTM Alba Matter
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\practice\ARENA\UI&UX\Mon thay trung\HOLA WEB\Font\UTM Alba Matter.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45296
+FileModTime:1584620268
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,UTM Alba Matter
+NameArray:0,Win,1,UTM Alba Matter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UVNBaiSauBold
+FamilyName:UVN Bai Sau
+StyleName:Bold
+FullName:UVN Bai Sau Bold
+MenuName:UVN Bai Sau
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\practice\ARENA\UI&UX\Mon thay trung\HOLA WEB\Font\UVNBaiSau.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59372
+FileModTime:1584620368
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,UVN Bai Sau Bold
+NameArray:0,Win,1,UVN Bai Sau
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UVNBaiSau
+FamilyName:UVN Bai Sau
+StyleName:Regular
+FullName:UVN Bai Sau
+MenuName:UVN Bai Sau
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\practice\ARENA\UI&UX\Mon thay trung\HOLA WEB\Font\UVNBaiSau_R.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59692
+FileModTime:1584620370
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,UVN Bai Sau
+NameArray:0,Win,1,UVN Bai Sau
+%EndFont
+
